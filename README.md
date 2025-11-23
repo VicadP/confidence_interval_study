@@ -2,7 +2,7 @@
 
 This is a short study on different methods of constructing confidence intervals.
 
-All the details can be found in `study.ipynb` file.
+All the details can be found in the `study.ipynb` file.
 
 # Result
 
