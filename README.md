@@ -1,4 +1,4 @@
-# Description of a project
+# Description of the project
 
 This is a short study on different methods of constructing confidence intervals.
 
